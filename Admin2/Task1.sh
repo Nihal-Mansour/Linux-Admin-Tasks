@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-#Nihal Mansour Abd El-Bari
 
 #function to get number of days according to the given month
 getMonthDays () {

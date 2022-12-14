@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-#Nihal Mansour Abd El-Bari
 
 check_user(){
     if [ "$EUID" -ne 0 ]
